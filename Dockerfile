@@ -1,5 +1,7 @@
 FROM alpine:3.8
 
+ENV lcdstring
+
 RUN apk add python
 RUN apk add py-pip
 RUN pip install --upgrade pip --default-timeout=100
