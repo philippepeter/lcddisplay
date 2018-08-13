@@ -1,6 +1,6 @@
 FROM alpine:3.8
 
-ENV lcdstring
+ENV lcdstring=hello
 
 RUN apk add python
 RUN apk add py-pip
