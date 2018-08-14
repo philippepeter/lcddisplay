@@ -6,6 +6,7 @@ Docker image to display a string on an LCD screen of an arduino using the serial
 
 ## Arduino code
 Created from the the Arduino example: LiquidDisplay->SerialDisplay
+
 [The code](https://github.com/philippepeter/lcddisplay/blob/master/display.arduino)
 
 ## Command
